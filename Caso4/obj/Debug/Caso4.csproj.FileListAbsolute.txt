@@ -1,0 +1,9 @@
+C:\Users\Alumno\source\repos\Caso4\Caso4\bin\Debug\Caso4.exe.config
+C:\Users\Alumno\source\repos\Caso4\Caso4\bin\Debug\Caso4.exe
+C:\Users\Alumno\source\repos\Caso4\Caso4\bin\Debug\Caso4.pdb
+C:\Users\Alumno\source\repos\Caso4\Caso4\obj\Debug\Caso4.Form1.resources
+C:\Users\Alumno\source\repos\Caso4\Caso4\obj\Debug\Caso4.Properties.Resources.resources
+C:\Users\Alumno\source\repos\Caso4\Caso4\obj\Debug\Caso4.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Caso4\Caso4\obj\Debug\Caso4.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Caso4\Caso4\obj\Debug\Caso4.exe
+C:\Users\Alumno\source\repos\Caso4\Caso4\obj\Debug\Caso4.pdb
